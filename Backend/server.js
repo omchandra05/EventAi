@@ -55,7 +55,6 @@ Respond **only** with a valid JSON array (no markdown, no explanation, no extra 
     "website": "https://example.com/tech-summit-2025"
     "image": "https://example.com/image.jpg"
   },
-  ...
 ]
 `;
 
